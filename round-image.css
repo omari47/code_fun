@@ -1,0 +1,32 @@
+.row {
+    margin: auto;
+    width: 50rem;
+    height: auto;
+    border-radius: 50%;
+    padding: 10px; /* Optional: adds spacing inside the div */
+    background-color: #f0f0f0;
+    border: 20px solid #ccc;
+    background-image: url("images background/background 5.jpg");
+    background-size: cover;
+
+}
+
+.text {
+    height: 500px;
+    width: 50rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: Pristina;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 160px;
+    letter-spacing: 20px;
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-image: url("images background/background 3.jpg");
+
+
+}
+
